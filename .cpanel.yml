@@ -1,3 +1,5 @@
+
+---
 deployment:
   tasks:
     - export DEPLOYPATH=/home/lucasfurtado/public_html/
